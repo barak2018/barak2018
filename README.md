@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @barak2018
+- 👋 Hi, I’m baraka manzi ya ruzigandengera from RWANDA
 - 👀 I’m interested in JS, HTML, DATABASE, C++,C,ARDUINO, PYTHON, JAVA, JAVASCRIPT,WORDPRESS
 - 🌱 I’m currently learning PYTHON AND DATA SCIENCE
 - 💞️ I’m looking to collaborate on IMPROVING MY CODING WAYS
